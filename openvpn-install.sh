@@ -1,6 +1,7 @@
 #!/bin/bash
 # OpenVPN road warrior installer for Debian-based distros
-
+ M
+ 
 # This script will only work on Debian-based systems. It isn't bulletproof but
 # it will probably work if you simply want to setup a VPN on your Debian/Ubuntu
 # VPS. It has been designed to be as unobtrusive and universal as possible.
